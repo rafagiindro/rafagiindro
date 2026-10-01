@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Rafael Gindro!
 
-<!--
-**rafagiindro/rafagiindro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução no desenvolvimento web.
 
-Here are some ideas to get you started:
+## 💻 Meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Portfólio](https://github.com/rafagiindro/Portfolio) — apresentação das minhas atividades e competências.
+- [ONG](https://github.com/rafagiindro/ONG) — projeto web do Instituto Caminhos do Bem.
+
+## 🐍 Minhas contribuições
+
+Uma cobrinha percorrendo minhas contribuições no GitHub. A animação é atualizada diariamente.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafagiindro/rafagiindro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafagiindro/rafagiindro/output/github-snake.svg" />
+  <img alt="Animação da cobrinha comendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/rafagiindro/rafagiindro/output/github-snake.svg" width="100%" />
+</picture>

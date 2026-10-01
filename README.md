@@ -9,8 +9,6 @@ Bem-vindo ao meu perfil! Aqui compartilho meus projetos e minha evolução no de
 
 ## 🐍 Minhas contribuições
 
-Uma cobrinha percorrendo minhas contribuições no GitHub. A animação é atualizada diariamente.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafagiindro/rafagiindro/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafagiindro/rafagiindro/output/github-snake.svg" />

@@ -14,7 +14,7 @@ Este espaço reúne meu portfólio, os projetos que desenvolvo e minha evoluçã
 ![CSS](https://img.shields.io/badge/CSS-29193f?style=for-the-badge&logo=css&logoColor=b89aee)
 ![JavaScript](https://img.shields.io/badge/JavaScript-361925?style=for-the-badge&logo=javascript&logoColor=f87171)
 
-**Estudando:** banco de dados e algoritmos.
+**Estudando:** Engenharia de Software
 
 ## Projetos em destaque
 
@@ -23,7 +23,7 @@ Este espaço reúne meu portfólio, os projetos que desenvolvo e minha evoluçã
 | Apresentação das minhas atividades, competências e projetos. | Projeto web desenvolvido para o Instituto Caminhos do Bem. |
 | [Explorar projeto →](https://github.com/rafagiindro/Portfolio) | [Explorar projeto →](https://github.com/rafagiindro/ONG) |
 
-## 🐍 Minhas contribuições
+## 🐍 Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafagiindro/rafagiindro/output/github-snake-dark.svg">
@@ -31,6 +31,6 @@ Este espaço reúne meu portfólio, os projetos que desenvolvo e minha evoluçã
   <img alt="Animação da cobrinha comendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/rafagiindro/rafagiindro/output/github-snake.svg" width="100%">
 </picture>
 
-## 👻 Pac-Man das contribuições
+## 👻 Pac-Man
 
 <img src="pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man amarelo e fantasmas coloridos percorrendo minhas contribuições no GitHub.">

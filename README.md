@@ -1,24 +1,27 @@
-<img src="banner-animado.svg" width="100%" alt="Rafael Gindro — Técnico em Segurança do Trabalho. Tecnologia, aprendizado e desenvolvimento.">
-
+<img src="banner-animado.svg" width="100%" alt="Rafael Gindro — Tecnologia, aprendizado e desenvolvimento.">
 
 ## Sobre mim
 
+Estudante de **Engenharia de Software** (Cruzeiro do Sul), focado em **desenvolvimento web** e **banco de dados**.
+Gosto de entender como as coisas funcionam, resolver problemas e transformar ideias em projetos práticos — do código ao deploy.
 
-Sou **Rafael Gindro, Técnico em Segurança do Trabalho** e entusiasta da tecnologia. Gosto de entender como as coisas funcionam, resolver problemas e transformar ideias em projetos práticos.
+🎯 **Em busca de:** estágio ou vaga júnior em desenvolvimento web / suporte técnico / dados  
+🌎 **Inglês avançado** — leio documentação e me comunico em inglês
 
-
-No desenvolvimento web, utilizo **HTML, CSS e JavaScript** para criar e aprimorar meus projetos. Atualmente, estudo **banco de dados e algoritmos** para aprofundar meus conhecimentos em programação.
-
-
-Este espaço reúne meu portfólio, os projetos que desenvolvo e minha evolução no aprendizado.
-
-
-## Tecnologias e aprendizado
-
+## Tecnologias
 
 <img src="tecnologias-escudos.svg" width="530" alt="HTML, CSS e JavaScript em escudos coloridos">
 
-**Estudando:** Engenharia de Software
+**Front-end:** HTML5 · CSS3 · JavaScript (responsividade, DOM, Flexbox/Grid)  
+**Banco de dados:** Modelagem conceitual e lógica · MySQL · SQL  
+**Ferramentas:** Git · GitHub · VS Code · Docker · Linux
+
+## Estudando agora
+
+- 📚 Algoritmos e estruturas de dados
+- 🗄️ Modelagem de Banco de Dados (projeto prático de controle de estoque e entregas)
+- 🐳 Containers com Docker e administração Linux
+- 🔐 Segurança da informação, com foco em desenvolvimento seguro
 
 
 ## Projetos em destaque

@@ -10,7 +10,7 @@ Gosto de entender como as coisas funcionam, resolver problemas e transformar ide
 
 ## Tecnologias
 
-<img src="tecnologias-escudos.svg" width="530" alt="HTML, CSS e JavaScript em escudos coloridos">
+<img src="tecnologias-escudos.svg" width="704" alt="HTML, CSS, JavaScript e SQL em escudos coloridos">
 
 **Front-end:** HTML5 · CSS3 · JavaScript (responsividade, DOM, Flexbox/Grid)  
 **Banco de dados:** Modelagem conceitual e lógica · MySQL · SQL  
